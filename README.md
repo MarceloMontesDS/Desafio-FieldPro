@@ -1,6 +1,6 @@
 # Desafio-FieldPro - Marcelo Montes
 
-Objetivo: análise de dados e modelo para determinação de chuvas a partir de variáveis coletadas de solução FieldPro
+Objetivo: análise de dados e modelo para determinação de chuvas a partir de variáveis coletadas.
 
 O script elaborado está dividido em:
 
