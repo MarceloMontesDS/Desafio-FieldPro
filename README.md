@@ -29,7 +29,8 @@ Demonstra aderência muito boa, exceto em alguns picos de chuva.
 PRÓXIMOS PASSOS
 - Análise de multicolinearidade e redução dimensionalidade;
 - Eliminação de duvidas técnicas;
-- Testes estatísticos (resíduos, normalidade, outros) para validar o modelo;
+- Split da base em 'treino' e 'testes';
+- Testes estatísticos (resíduos, normalidade, heterocedasticidade, outros) para validar o modelo;
 - Ajustes e limpeza do script conforme definições.
 
 
