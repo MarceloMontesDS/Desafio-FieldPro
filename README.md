@@ -1,4 +1,4 @@
-# Desafio-FieldPro - Marcelo Montes
+# Desafio: determinação do volume de chuvas
 
 Objetivo: análise de dados e modelo para determinação de chuvas a partir de variáveis coletadas.
 
