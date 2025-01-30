@@ -1,4 +1,4 @@
-# Desafio: determinação do volume de chuvas
+# Desafio: determinação do volume de chuvas a partir de dados coletados em central meteorológica  
 
 Objetivo: análise de dados e modelo para determinação de chuvas a partir de variáveis coletadas.
 
